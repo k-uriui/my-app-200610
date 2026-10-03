@@ -1,0 +1,9 @@
+[theme]
+
+font = "'Zen Old Mincho':https://fonts.googleapis.com/css2?family=Zen+Old+Mincho:wght@400;500;600;700;800;900&display=swap, serif"
+
+headingFont = "'Zen Old Mincho':https://fonts.googleapis.com/css2?family=Zen+Old+Mincho:wght@400;500;600;700;800;900&display=swap, serif"
+
+backgroundColor = "#f5eedf"
+secondaryBackgroundColor = "#f5eedf"
+borderColor = "#d8cdb8"
